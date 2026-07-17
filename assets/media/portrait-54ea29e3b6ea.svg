@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Platzhalter für ein Porträt</title>
+  <desc id="desc">Neutrale Silhouette vor einer warmen Naturfläche im Hochformat.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#dcebf3"/><stop stop-color="#b4a17b" offset="1"/></linearGradient><filter id="grain"><feTurbulence baseFrequency=".6" numOctaves="3" seed="12"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .1 0"/></filter></defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="400" cy="338" r="150" fill="#234f5b"/>
+  <path d="M120 920c24-280 124-422 280-422s256 142 280 422z" fill="#173e48"/>
+  <path d="M117 896c152-61 418-52 568 10" fill="none" stroke="#f6f2e9" stroke-width="12" opacity=".6"/>
+  <rect width="800" height="1000" filter="url(#grain)"/>
+  <text x="400" y="958" fill="#fff" font-family="Georgia, serif" font-size="24" text-anchor="middle" letter-spacing="4">PORTRÄT · PLATZHALTER</text>
+</svg>
+
